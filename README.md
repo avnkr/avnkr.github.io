@@ -1,2 +1,1 @@
-# avnkr.github.io
-To share my learnings
+# Stay Tuned!
